@@ -49,9 +49,14 @@
 	.welcome-hero-txt h2 {font-size: 24px;}
 	.single-welcome-hero {height:auto;background: transparent;padding: 100px 0;display: block;}
 	.welcome-hero-txt {padding-top: 80px;}
-	.single-welcome-hero-form {flex-direction: column;width: 100%;background: #fff; margin: 15px 0;padding: 20px 0;}
-	.welcome-hero-form {width: 100%;flex-direction: column;height: 250px;background: transparent;}
-
+	.single-welcome-hero-form {flex-direction: column;width: 100%;background: #fff;padding: 10px 0; height: 50px; margin-top: -2%;}
+	.welcome-hero-form {width: 100%;flex-direction: column;height: 80px;background: transparent;}
+	.single-welcome-hero-form input {
+		background-color: rgba(221, 221, 221, 0.487);
+		height: fit-content;
+		border-radius: 5px;
+		text-align: center;
+	}
 	.list-topics-content {top: 0;margin: 60px auto;}
 
 	.single-how-works,.single-blog-item {max-width: 350px;margin: 30px auto;}

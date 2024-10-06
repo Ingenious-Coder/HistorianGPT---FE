@@ -169,6 +169,12 @@ html,body{height: 100%;}
     border: 0;
     background: transparent;
 }
+.single-welcome-hero-form input[type="text"] {
+    font-size: 14px;
+    color: #332f2f;
+    text-transform: capitalize;
+    font-weight: 500;
+}
 
 .welcome-hero-btn {
     margin-left: 1%;
